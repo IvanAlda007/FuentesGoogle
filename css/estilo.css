@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: black;
+}
+
+body{
+    width: 750px;
+    height: 100px;
+    margin: auto;
+    background-color: rgb(255, 192, 203);
+}
+
+header{
+    width: 750px;
+    height: 250x;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    background-color: rgb(2425, 176, 94);
+}
+
+section#banner{
+    width: 250px;
+    height: 250px;
+    float: left;
+    color: rgb(255, 255, 250);
+}
+
+section#logo{
+    width: 250px;
+    height: 250px;
+    float: left;
+    color: rgb(237, 244, 247);
+}
+
+section#login{
+    width: 250px;
+    height: 250px;
+    float: left;
+    color: rgb(255, 255, 255);
+}
+
+.caja{
+    position: relative;
+    display: inline-block;
+}
+.uno{
+    left: 5%;
+}
+.dos{
+    left: 5%;
+}
+.tres{
+    left: 5%;
+}
+
+nav{
+    width: 750px;
+    height: 250px;
+    background-color: hsl(95, 76%, 37%);
+    color: hsl(44, 100%, 50%);
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+
+section#inicio{
+    width: 250px;
+    height: 250px;
+    float: left;    
+}
+
+
+section#producto{
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+
+section#contacto{
+    width: 250px;
+    height: 250px;
+    float: right;
+}
+
+main{
+    width: 750px;
+    height: 250px;
+    background-color: rgb(250, 249, 250);
+    font-family: 'Miltonian', cursive;
+    font-size: 20px;
+    color: #ffff;
+    background-color: #1c4003;
+}
+
+aside#hoy{
+    width: 250px;
+    height: 250px;
+    float: left;    
+}
+
+article#novedades{
+    width: 250px;
+    height: 250px;
+    float: left;
+    color: #ffffff;
+}
+
+aside#internacional{
+    width: 250px;
+    height: 250px;
+    float: right;
+}
+
+footer{
+    width: 750px;
+    height: 250px;
+    background-color: rgb(10, 64, 247);
+    font-family: 'Galada', Cursive;
+    font-size: 20px;
+    color: rgb(10, 255, 0);
+}
+
+aside#creditos{
+    width: 250px;
+    height: 250px;
+    background-color: #068061;
+    float: left;
+}
+
+article#lugar{
+    width: 250px;
+    height: 250px;
+    background-color: #068061;
+    float: left;
+}
+
+aside#correo{
+    width: 250px;
+    height: 250px;
+    background-color: #068061;
+    float: right;
+}
